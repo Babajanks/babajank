@@ -1,0 +1,28 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1{
+    padding: 20px;
+}
+
+.h3{
+    color: blue;
+    text-align: left;
+}
+
+.footer
+ {
+    width: 100%;
+    padding: 15px 300px;
+  }
+ .inside-footer
+ {
+     text-align: center;
+       font-size: 15px;
+ }
+ .logolink
+ {
+     color: white;
+     text-decoration: none;
+ }
